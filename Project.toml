@@ -1,0 +1,23 @@
+name = "DDMCorrelativeImaging"
+uuid = "b944dc64-4f63-49cb-8ead-0887d93f1c9a"
+authors = ["Oscar Andre <bmp13oan@student.lu.se>"]
+version = "0.1.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+BioformatsLoader = "d1f74bce-bb60-11ea-2eff-3d75f256b4d8"
+CombinedParsers = "5ae71ed2-6f8a-4ed1-b94f-e14e8158f19e"
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+DDMFramework = "1b294ee1-80a2-4bfa-8e62-95fa73f8a955"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+RegionProps = "42ae4080-d47a-11e9-3919-455630c5caa2"
+SegmentationUtils = "f7e014ca-1282-432e-afd4-46d8ba963222"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
